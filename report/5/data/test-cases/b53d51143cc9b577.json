@@ -1,0 +1,54 @@
+{
+  "uid" : "b53d51143cc9b577",
+  "name" : "test_skip",
+  "fullName" : "allure_practice#test_skip",
+  "historyId" : "59fe86775d4e0885283953afe025936c",
+  "time" : {
+    "start" : 1605527730757,
+    "stop" : 1605527730757,
+    "duration" : 0
+  },
+  "description" : "this test is skipped",
+  "descriptionHtml" : "<p>this test is skipped</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: for a reason!",
+  "statusTrace" : "('D:\\\\pychrm\\\\Pytest_hogwarts\\\\allure_practice.py', 15, 'Skipped: for a reason!')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "allure_practice"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-95H2SUTO"
+  }, {
+    "name" : "thread",
+    "value" : "23628-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "allure_practice"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b53d51143cc9b577.json",
+  "parameterValues" : [ ]
+}
